@@ -30,4 +30,4 @@ We would love contributions from everyone. Some general guidelines are:
 
 All contributors/users are requested Whatsapp for further [contact](https://api.whatsapp.com/send?phone=919424913170&text=&source=&data=)
 
-Mentor of the project : [Ritik Jain](https://github.com/Rits1272)
+Mentor for this project : [Ritik Jain](https://github.com/Rits1272)
